@@ -1,0 +1,4 @@
+{
+  "cmd": "rustc -o {FILE_ACTIVE_PATH}/{FILE_ACTIVE_NAME_BASE} {FILE_ACTIVE} && {FILE_ACTIVE_PATH}/{FILE_ACTIVE_NAME_BASE}",
+  "shell": true
+}
